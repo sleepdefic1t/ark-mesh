@@ -1,7 +1,7 @@
 
 <img src="https://github.com/sleepdefic1t/ark-mesh/blob/master/ark_mesh_logo.png" width="350">  
 
-#### "Communicate what matters, ***when*** it matters the most."
+#### "Connect what matters, ***where*** it matters the most."
 
 <img src="https://github.com/sleepdefic1t/ark-mesh/blob/master/rtl8195.png" width="500">
 
